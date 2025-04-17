@@ -1,0 +1,9 @@
+name: Introduction to Git Actions
+on:
+  pull_request:
+    branches:
+      - main
+  # workflow_dispatch:{}
+
+jobs:
+ 
