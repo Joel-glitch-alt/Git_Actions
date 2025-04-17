@@ -4,7 +4,7 @@
   "description": "- ✅ Fast and lightweight backend\r - 🔐 JWT-based authentication\r - 🧪 Unit & integration testing\r - 📡 RESTful API endpoints\r - 🗃️ PostgreSQL/MongoDB integration (choose one)\r - 📁 Modular file structure",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests yet\" && exit 0"
   },
   "repository": {
     "type": "git",
