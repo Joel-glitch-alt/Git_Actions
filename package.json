@@ -1,0 +1,23 @@
+{
+  "name": "gitactions1",
+  "version": "1.0.0",
+  "description": "- ✅ Fast and lightweight backend\r - 🔐 JWT-based authentication\r - 🧪 Unit & integration testing\r - 📡 RESTful API endpoints\r - 🗃️ PostgreSQL/MongoDB integration (choose one)\r - 📁 Modular file structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-glitch-alt/Git_Actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel-glitch-alt/Git_Actions/issues"
+  },
+  "homepage": "https://github.com/Joel-glitch-alt/Git_Actions#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
